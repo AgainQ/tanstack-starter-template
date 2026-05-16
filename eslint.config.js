@@ -20,6 +20,7 @@ export default defineConfig([
       pluginQuery.configs['flat/recommended'],
     ],
     rules: {
+      'react-refresh/only-export-components': 'off',
       'no-unused-vars': 'off',
       '@typescript-eslint/no-unused-vars': [
         'warn',
