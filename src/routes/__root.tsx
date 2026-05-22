@@ -1,5 +1,5 @@
 import { Outlet, createRootRouteWithContext } from '@tanstack/react-router';
-import DevTools from '../DevTools';
+import DevTools from '../app/DevTools';
 import type { QueryClient } from '@tanstack/react-query';
 
 type RouterContext = {
