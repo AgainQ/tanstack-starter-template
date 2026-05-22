@@ -1,4 +1,5 @@
 .tanstack
+.env
 
 # Logs
 logs
